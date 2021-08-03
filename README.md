@@ -1,1 +1,1 @@
-# Cronômetro Simples
+# Cronômetro Simples (Javascript)

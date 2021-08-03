@@ -6,6 +6,7 @@ window.onload = function () {
     var buttonStart = document.getElementById('start');
     var buttonStop = document.getElementById('stop');
     var buttonReset = document.getElementById('reset');
+    var appendMinutes = document.getElementById('minutes');
     var Interval ;
 
     buttonStart.onclick = function() {  
